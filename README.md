@@ -6,6 +6,6 @@
 
 Запускаем приложение, переходим в пункт FILE, импортируем файл конфигурации который скачивали ранее, жмем ADD.
 
-Включаем VPN полгузком.
+Включаем VPN ползунком.
 
 ![image](https://cloud.srv00.com/apps/files_sharing/publicpreview/KPTRyaQneEgwgeb?x=1908&y=572&a=true&file=img4.jpg&scalingup=0)
